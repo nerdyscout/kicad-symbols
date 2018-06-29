@@ -1338,6 +1338,12 @@ K raspberrypi gpio
 F https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_3bplus_1p0_reduced.pdf
 $ENDCMP
 #
+$CMP SATA_7P+15P
+D SATA Connector
+K SATA 7P 15P 22P
+F https://www.digikey.de/product-detail/de/3m/5622-6309-ML/3M5555-ND/1207097
+$ENDCMP
+#
 $CMP SCART-F
 D Prise Peritel
 K connector
