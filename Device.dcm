@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 2088RGB
+D 8x8 RGB Matrix
+$ENDCMP
+#
 $CMP Amperemeter_AC
 D AC ammeter
 K ammeter AC ampere meter
@@ -678,6 +682,10 @@ K fuse
 F ~
 $ENDCMP
 #
+$CMP G55ACA24C32722
+D 8x8 RGB Matrix
+$ENDCMP
+#
 $CMP Galvanometer
 D Galvanometer
 K galvanometer
@@ -802,6 +810,10 @@ $CMP LED_Dual_CCA
 D Dual LED, common anode on pin 3
 K LED diode bicolor dual
 F ~
+$ENDCMP
+#
+$CMP LED_Matrix
+D 8x8 RGB Matrix
 $ENDCMP
 #
 $CMP LED_PAD
