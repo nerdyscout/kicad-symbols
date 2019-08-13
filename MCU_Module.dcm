@@ -48,6 +48,12 @@ K nextthingco chip pro module
 F https://github.com/NextThingCo/CHIP_Pro-Hardware/blob/master/Datasheets/CHIP_PRO_Datasheet_v1.0.pdf
 $ENDCMP
 #
+$CMP ESP32_DevKitC_V4
+D ESP-32S/ESP-WROOM-32 802.11 b/g/n Wi-Fi+BT+BLE Module
+K ESP32S WiFi Bluetooth microcontroller
+F https://dl.espressif.com/dl/schematics/esp32_devkitc_v4-sch.pdf
+$ENDCMP
+#
 $CMP Maple_Mini
 D Maple Mini Microcontroller Module by LeafLabs
 K Maple Mini Microcontroller Module LeafLabs STM32 STM32F103
@@ -72,16 +78,10 @@ K STM32 Nucleo ST
 F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/data_brief/DM00105918.pdf
 $ENDCMP
 #
-$CMP NodeMCU_ESP-12E
-D ESP-12E 802.11 b/g/n Wi-Fi Module
+$CMP NodeMCU_ESP8266
+D ESP8266 802.11 b/g/n Wi-Fi Module
 K 802.11 Wi-Fi module
 F https://github.com/nodemcu/nodemcu-devkit-v1.0/blob/master/NODEMCU_DEVKIT_V1.0.PDF
-$ENDCMP
-#
-$CMP NodeMCU_ESP-32S
-D ESP-32S/ESP-WROOM-32 802.11 b/g/n Wi-Fi+BT+BLE Module
-K ESP32S WiFi Bluetooth microcontroller
-F https://einstronic.com/wp-content/uploads/2017/06/NodeMCU-32S-Catalogue.pdf
 $ENDCMP
 #
 $CMP VisionSOM-6UL
