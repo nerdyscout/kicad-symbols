@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Adafruit_Feather_HUZZAH_ESP8266
+D ESP8266 802.11 b/g/n Wi-Fi Module
+K 802.11 Wi-Fi module
+F https://learn.adafruit.com/adafruit-feather-huzzah-esp8266
+$ENDCMP
+#
 $CMP Adafruit_HUZZAH32_ESP32_Feather
 D ESP-32S/ESP-WROOM-32 802.11 b/g/n Wi-Fi+BT+BLE Module
 K ESP32S WiFi Bluetooth microcontroller
