@@ -1,21 +1,18 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP Adafruit_Feather_HUZZAH_ESP8266
-D ESP8266 802.11 b/g/n Wi-Fi Module
-K 802.11 Wi-Fi module
-F https://learn.adafruit.com/adafruit-feather-huzzah-esp8266
+D 802.11 b/g/n Wi-Fi Module
+K 802.11 Wi-Fi
 $ENDCMP
 #
 $CMP Adafruit_HUZZAH32_ESP32_Feather
-D ESP-32S/ESP-WROOM-32 802.11 b/g/n Wi-Fi+BT+BLE Module
-K ESP32S WiFi Bluetooth microcontroller
-F https://learn.adafruit.com/adafruit-huzzah32-esp32-feather/downloads
+D RF Module, ESP32, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD
+K RF Radio BT ESP ESP32 Espressif onboard PCB antenna
 $ENDCMP
 #
 $CMP Adafruit_HUZZAH_ESP8266_breakout
 D 32-bit microcontroller module with WiFi
 K ESP8266 WiFi microcontroller
-F https://www.adafruit.com/product/2471
 $ENDCMP
 #
 $CMP Arduino_Leonardo
@@ -60,10 +57,9 @@ K nextthingco chip pro module
 F https://github.com/NextThingCo/CHIP_Pro-Hardware/blob/master/Datasheets/CHIP_PRO_Datasheet_v1.0.pdf
 $ENDCMP
 #
-$CMP ESP32_DevKitC_V4
-D ESP-32S/ESP-WROOM-32 802.11 b/g/n Wi-Fi+BT+BLE Module
-K ESP32S WiFi Bluetooth microcontroller
-F https://dl.espressif.com/dl/schematics/esp32_devkitc_v4-sch.pdf
+$CMP ESP32-DevKitC-V4
+D RF Module, ESP32, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD
+K RF Radio BT ESP ESP32 Espressif onboard PCB antenna
 $ENDCMP
 #
 $CMP Maple_Mini
@@ -91,9 +87,8 @@ F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/data_
 $ENDCMP
 #
 $CMP NodeMCU_DEVKIT_V1.0
-D ESP8266 802.11 b/g/n Wi-Fi Module
-K 802.11 Wi-Fi module
-F https://github.com/nodemcu/nodemcu-devkit-v1.0/blob/master/NODEMCU_DEVKIT_V1.0.PDF
+D 802.11 b/g/n Wi-Fi Module
+K 802.11 Wi-Fi
 $ENDCMP
 #
 $CMP Omega2+
